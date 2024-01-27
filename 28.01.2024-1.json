@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Harrell",
+    "age": 107,
+    "address": {
+        "street": "Lawrence Tunnel",
+        "city": "South Tommymouth",
+        "state": "Colorado",
+        "zip": "38621"
+    },
+    "contact": {
+        "phone": "001-683-232-4566x22916",
+        "servicePhone": "800614130"
+    },
+    "birthday": "1918-30-07",
+    "ip": "61.100.29.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology situation adult glass husband. Affect test factor old. Several involve put free environment year sometimes get.",
+        "bio": "Down effect draw American attack. Loss main action difference expert girl population.\nMean interest leg purpose around talk floor nature. Agent action service."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
