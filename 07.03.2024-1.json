@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Huerta",
+    "age": 38,
+    "address": {
+        "street": "Klein Lakes",
+        "city": "New Jamiemouth",
+        "state": "Kentucky",
+        "zip": "81111"
+    },
+    "contact": {
+        "phone": "+1-950-685-2754x019",
+        "servicePhone": "800586319"
+    },
+    "birthday": "1987-02-05",
+    "ip": "133.41.25.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Account include support thus. Listen leg process talk. Bank she player subject bring young.\nTime house true capital much Mrs. Quickly husband even boy wrong.",
+        "bio": "Brother blue get development bad relationship game. Suffer reduce part every. Somebody far respond stay."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
