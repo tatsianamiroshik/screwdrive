@@ -1,0 +1,25 @@
+{
+    "name": "Mary Jones",
+    "age": 26,
+    "address": {
+        "street": "Victor Lakes",
+        "city": "South Loriland",
+        "state": "Virginia",
+        "zip": "46729"
+    },
+    "contact": {
+        "phone": "834.893.4320",
+        "servicePhone": "800731908"
+    },
+    "birthday": "1999-10-06",
+    "ip": "202.201.100.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Test head break personal leader no. Card professional rock military class. Unit computer move animal movie recent those.",
+        "bio": "Here performance parent memory toward generation ok thus. To help up whether really whether ahead front. Meet question eat himself range fast form."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
