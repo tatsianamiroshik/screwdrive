@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Walter",
+    "age": 114,
+    "address": {
+        "street": "Oliver Camp",
+        "city": "East Kevin",
+        "state": "North Dakota",
+        "zip": "34997"
+    },
+    "contact": {
+        "phone": "001-902-668-8946",
+        "servicePhone": "800787030"
+    },
+    "birthday": "1911-21-06",
+    "ip": "19.92.180.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher lay detail blue simple. Themselves receive turn use ground walk wife. Travel itself election Democrat.\nWay unit effect others. Foot forward why else here.",
+        "bio": "Election street charge institution him dog north run. West bad son guess hold fly little. Issue child indeed raise ball fast. These stand large."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
