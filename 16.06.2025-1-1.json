@@ -1,0 +1,25 @@
+{
+    "name": "Erica Norton",
+    "age": 92,
+    "address": {
+        "street": "Smith Meadow",
+        "city": "Taylorburgh",
+        "state": "Missouri",
+        "zip": "86649"
+    },
+    "contact": {
+        "phone": "001-994-909-0781",
+        "servicePhone": "800608749"
+    },
+    "birthday": "1933-17-01",
+    "ip": "102.205.56.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed line require language. Table there require they. Position discussion kitchen order.\nScientist exactly purpose just American.",
+        "bio": "Guess nearly skin positive spend.\nProfessional itself include sure. Effort human trip wonder check. Fire high someone audience court daughter ago beautiful."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
