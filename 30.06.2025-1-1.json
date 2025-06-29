@@ -1,0 +1,25 @@
+{
+    "name": "Ariana Sullivan",
+    "age": 34,
+    "address": {
+        "street": "Sue Highway",
+        "city": "Seanborough",
+        "state": "West Virginia",
+        "zip": "59207"
+    },
+    "contact": {
+        "phone": "001-896-630-6992x9241",
+        "servicePhone": "800352065"
+    },
+    "birthday": "1991-29-08",
+    "ip": "149.165.118.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Current imagine good take between total tend. Customer sister seem never.\nCity everybody decade when.\nEconomy season people simple rich. Ahead hold real she. General and authority lose actually.",
+        "bio": "Fact operation conference blue free among policy. Exist seat skin act debate. Process south choose behavior standard."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
